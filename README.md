@@ -2,7 +2,8 @@
 
 ![preview](./.github/violet-blurred.jpg)
 
-> Discovery
+> Discover
+
 
 Projeto exclusivo e gratuito, promovido pela Rockseat, instrutor Mayk Brito
 
